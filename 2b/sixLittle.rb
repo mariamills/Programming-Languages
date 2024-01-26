@@ -7,6 +7,7 @@ class SixLittle
   end
 
   def ask
+    # 6 times, do... (like a for loop but without the index/counter), its awesome
     6.times do
       puts "Enter a word (at least 4 characters):"
       word = gets.chomp
@@ -20,6 +21,7 @@ class SixLittle
       hint = gets.chomp
 
       # Add the word and hint to the appropriate arrays (instance variables)
+      # upcase the word and capitalize the hint
       @words << word.upcase
       @hints << hint.capitalize
     end
@@ -39,6 +41,7 @@ class SixLittle
   end
 
   def display
+    # puts is like print but adds a newline at the end (right?)
     puts "Six Little Words (Ruby)"
     # Slice the tokens array into groups of 4, then for each group/slice, join the 4 tokens with a space and join the slices with a newline
     puts "Tokens:\n " + @tokens.each_slice(4).map { |slice| slice.join(' ') }.join("\n")
