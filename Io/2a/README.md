@@ -4,8 +4,10 @@
 
 ## Issues:
 
+I wrote these issues when doing Step 1, for a more detailed and overall list of issues, see the bottom of the README.
+
 - Io is not as popular as Ruby so it was harder to find resources.
-- Also, had trouble installing Io on my Windows machine, couldn't get it to compile. I had to use my Mac to brew install it.
+- Also, had trouble installing Io on my Windows machine, couldn't get it to compile. ~~I had to use my Mac to brew install it.~~ (I thought this was the route I was going to end up taking, but I ended up using a Docker container on a Ubuntu machine because I couldn't get it to install on my Mac either).
 - [Io Reference](https://iolanguage.org/reference/) was helpful but for reason, the website was super laggy, which made it hard to use.
 
 ## Part 2a
