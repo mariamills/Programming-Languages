@@ -46,6 +46,7 @@ I wrote these issues when doing Step 1, for a more detailed and overall list of 
 - The book
 - [Io Guide](https://iolanguage.org/guide/guide.html)
 - [Io Reference](https://iolanguage.org/reference/) - This was the **biggest** help, it showed most functions, such as `join`, `sort`, `reverse` and many more useful good-to-know functions.'
+- [Io Samples](https://iolanguage.org/samples/index.html) - Good examples.
 - Class slides
 
 ---
@@ -59,6 +60,7 @@ I wrote these issues when doing Step 1, for a more detailed and overall list of 
 - [Io Wiki](https://en.wikibooks.org/wiki/Io_Programming#:~:text=Use%20the%20double%20dot%20operator,string%20interpolation%2C%20as%20shown%20below.&text=Now%2C%20calling%20olle%20fullname%20will,parentheses)%20for%20the%20method%20..) - This was helpful for string concatenation & interpolation. And just overall a good reference for Io.
 - [Io Reference](https://iolanguage.org/reference/)
 - [Io Guide](https://iolanguage.org/guide/guide.html)
+- [Io Samples](https://iolanguage.org/samples/index.html)
 - Class slides (the gift, comment(s), user input, more helpful syntax info)
 
 ### Step 3:
@@ -70,6 +72,7 @@ I wrote these issues when doing Step 1, for a more detailed and overall list of 
 - [Io Wiki](https://en.wikibooks.org/wiki/Io_Programming#:~:text=Use%20the%20double%20dot%20operator,string%20interpolation%2C%20as%20shown%20below.&text=Now%2C%20calling%20olle%20fullname%20will,parentheses)%20for%20the%20method%20..)
 - [Io Reference](https://iolanguage.org/reference/)
 - [Io Guide](https://iolanguage.org/guide/guide.html)
+- [Io Samples](https://iolanguage.org/samples/index.html)
 - Class slides
 - [Linear Congruential Generator](https://www.educative.io/answers/pseudo-random-number-using-the-linear-congruential-generator) - This was a very helpful and informative resource for understanding how to create a random number generator. I was looking up random number generating algorithms because I was having trouble with the RNG I used in Step 2, since we were using the `Date now` to generate a random number, it kept putting the same generated number into the matrix at [y][x]. So, this helped solve that issue and I learned a lot more than expected about random number generating.. although, I wouldn't say I understand it fully, but I understood it enough to get it to work, especially with the help of the provided code example.
 - [Vide on LCG](https://www.youtube.com/watch?v=kRCmR4qr-hQ)

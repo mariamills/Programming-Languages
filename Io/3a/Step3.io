@@ -8,14 +8,13 @@ randomX := Date now asNumber % 1
 
 # RNG method (linear congruential generator). Returns a random number between 1 and x (inclusive) then multiples it by x and floors it
 generateRandomNumber := method(x,
-    randomX = (randomX * 12 + 2) % 15  # (12 (multiplier), 2 (increment), 15 (modulus)
+    randomX = (randomX * 2 + 4) % 15  # (2 (multiplier), 4 (increment), 15 (modulus)
     randomNumber := (randomX / 15) * x floor + 1
     return randomNumber floor
 )
 
 # TwoDimensionalList prototype
 TwoDimensionalList := Object clone
-list := List clone
 
 # dim method - initializes the dimensions of the list (x columns, y rows)
 TwoDimensionalList dim := method(x, y,
