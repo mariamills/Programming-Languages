@@ -1,4 +1,4 @@
-# Prolog Exploration - Project 4
+# Prolog Exploration - Project 4a
 
 ## Name: Maria Mills
 
