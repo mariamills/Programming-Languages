@@ -3,9 +3,11 @@
 ## Hi, my name is Maria Mills
 
 ### Class name and term :
-**Programming Languags**, *Spring 2024*
+
+**Programming Languags**, _Spring 2024_
 
 ### Languages I currently program in:
+
 - Java
 - Python
 - JavaScript
@@ -13,9 +15,8 @@
 - C#
 
 ### Languages I want to learn:
+
 - Rust
 - Go
 - C++
 - Dart
-
-
