@@ -18,7 +18,7 @@
 #### Resources
 
 - The book
-- Clas slides
+- Class slides
 - [Scala Lists](https://www.geeksforgeeks.org/scala-lists/)
 - [ArrayBuffer](https://docs.scala-lang.org/scala3/book/collections-classes.html#arraybuffer)
 - [Classes](https://docs.scala-lang.org/tour/classes.html)
