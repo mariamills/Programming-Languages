@@ -5,7 +5,7 @@
 ## Project team members:
 
 - Maria Mills
-- Jae Kim
+- [Jae Kim](https://github.com/jaekim24)
 
 ## Development Environment
 
